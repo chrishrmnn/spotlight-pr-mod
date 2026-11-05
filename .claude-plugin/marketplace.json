@@ -1,0 +1,5 @@
+{
+  "name": "spotlight-pr-mod",
+  "owner": { "name": "Christophe Hermann" },
+  "plugins": [{ "name": "spotlight-pr-band", "source": "./" }]
+}

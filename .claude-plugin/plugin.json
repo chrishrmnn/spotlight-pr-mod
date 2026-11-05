@@ -1,0 +1,6 @@
+{
+  "name": "spotlight-pr-band",
+  "version": "0.1.0",
+  "description": "A band above the prompt: spotlight this worktree into the main checkout, and see or create its PR.",
+  "types": "./types/index.d.ts"
+}
